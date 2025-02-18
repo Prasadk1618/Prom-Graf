@@ -52,3 +52,5 @@ sudo yum install -y https://dl.grafana.com/oss/release/grafana-10.0.3-1.x86_64.r
 ```
 
 - Copy Your Public Ip :3000 And Hit Your Browser
+
+- THis Related Blog :- https://prasadkblog.hashnode.dev/prometheus-grafana-setup-on-amazon-linux
